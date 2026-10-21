@@ -1,6 +1,6 @@
 # 图片素材库 V1（1.0.0）
 
-Windows x64 便携版。下载 `图片素材库.zip`，完整解压后双击 `图片素材库.exe`。
+Windows x64 便携版。下载 [图片素材库.zip](https://github.com/wuy0uer/image-material-manager/releases/download/v1.0.0/Image-Material-Library-V1.0.0.zip)，完整解压后双击 `图片素材库.exe`。
 
 包含通用素材库、项目文件夹、分类标签、备注、组图、搜索，以及可选的本地模型和 API 分析。
 
@@ -10,7 +10,9 @@ Windows x64 便携版。下载 `图片素材库.zip`，完整解压后双击 `�
 - 更新时保留原 `data`、模型、素材库及隐藏数据，不要清空原目录。
 - AI 结果需人工核对，外部 API 可能产生服务费用。
 
-本页附件 `第三方组件源码.zip` 免费提供 HEIC 解码器及 Electron 媒体组件的对应第三方源码与构建资料，不是本软件自有源码。它与程序包并列提供，未内嵌到程序 ZIP 中；需要源码时请下载本页这个同版本附件。
+本页附件 [第三方组件源码.zip](https://github.com/wuy0uer/image-material-manager/releases/download/v1.0.0/Third-Party-Sources-V1.0.0.zip) 免费提供 HEIC 解码器及 Electron 媒体组件的对应第三方源码与构建资料，不是本软件自有源码。它与程序包并列提供，未内嵌到程序 ZIP 中；需要源码时请下载本页这个同版本附件。
+
+下载文件名采用英文标识，以避免 GitHub 将中文附件重命名；解压后软件名称仍为“图片素材库”。
 
 可用 `SHA256SUMS.txt` 核对下载文件完整性。该校验值不等于代码签名。
 
