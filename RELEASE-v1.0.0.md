@@ -22,5 +22,3 @@ Windows x64 便携版。下载 [图片素材库.zip](https://github.com/wuy0uer/
 
 软件免费使用。如果它对你有帮助，欢迎自愿赞助，支持后续维护。
 赞助不影响软件功能或使用授权；软件包内的“自愿赞助”文件夹可自行删除。
-
-<img src="https://raw.githubusercontent.com/wuy0uer/image-material-manager/v1.0.0/%E8%87%AA%E6%84%BF%E8%B5%9E%E5%8A%A9/%E8%AF%B7%E4%BD%9C%E8%80%85%E5%96%9D%E6%9D%AF%E5%92%96%E5%95%A1.png" alt="自愿赞助：请作者喝杯咖啡" width="640">
